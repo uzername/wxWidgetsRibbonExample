@@ -131,6 +131,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="idcard.xpm" />
+    <None Include="PropertySheet.props" />
+    <None Include="README.MD" />
     <None Include="tech1.xpm" />
     <None Include="tech1_disabled.xpm" />
   </ItemGroup>

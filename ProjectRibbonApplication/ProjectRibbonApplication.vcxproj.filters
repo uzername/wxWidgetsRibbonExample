@@ -34,5 +34,7 @@
     <None Include="idcard.xpm" />
     <None Include="tech1.xpm" />
     <None Include="tech1_disabled.xpm" />
+    <None Include="README.MD" />
+    <None Include="PropertySheet.props" />
   </ItemGroup>
 </Project>
